@@ -1,1 +1,2 @@
-Hello! Welcome to git tutorial. In next video, we will learn git add, commit & push commands. 
+Hello! Welcome to git tutorial. In next video, we will learn git add, commit & push commands.
+Add these changes to staging area, commit to local repository & then push to remote repository.
